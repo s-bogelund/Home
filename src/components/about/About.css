@@ -1,0 +1,60 @@
+.a{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.a-left{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.a-right{
+    flex: 1;
+    margin-right: 5vw;
+    line-height: 1.7;
+}
+
+.a-card.bg{
+    position: absolute;
+    top: -25px;
+    left: -25px;
+    background-color:#333;
+}
+
+.a-card{
+    width: 85%;
+    margin-left: 40px;
+    margin-right: 4vw;;
+    height: 60vh;
+    border-radius: 30px;
+    position:relative;
+    overflow: hidden;
+}
+
+.a-img{
+    border-radius: 30px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    object-fit: cover;
+}
+
+.a-title {
+    font-weight: 400;
+  }
+
+  .a-sub {
+    margin: 20px 0px;
+  }
+  
+  .a-desc1{
+      font-weight: 300;
+  }
+  .a-desc2{
+      margin-top: 20px;
+      font-weight: 300;
+  }

@@ -26,7 +26,7 @@ export const products = [
 		),
 	},
 	{
-		id: 5,
+		id: 2,
 		title: <h1>Beer Pong GUI - WPF</h1>,
 		img: kingPong,
 		link: "https://youtu.be/5o9kyu-BgtA",
@@ -50,18 +50,6 @@ export const products = [
 	},
 	{
 		id: 3,
-		title: <h1>Tilføj Bruger App</h1>,
-		img: addUser,
-		link: "https://s-bogelund.github.io/AddUserApp/",
-		desc: (
-			<p>
-				En meget simpel app. Det primære fokus her var at blive fortrolig med
-				CSS Grid, og CSS helt generelt.
-			</p>
-		),
-	},
-	{
-		id: 2,
 		title: <h1>Udgift Tracker</h1>,
 		img: expenses,
 		link: "https://www.expense-tracker.simonbogelund.dk",
@@ -99,7 +87,7 @@ export const products = [
 		),
 	},
 	{
-		id: 3,
+		id: 5,
 		title: <h1>Tilføj Bruger App</h1>,
 		img: addUser,
 		link: "https://s-bogelund.github.io/AddUserApp/",

@@ -11,13 +11,20 @@ const ProductList = () => {
 				<h1 className="pl-title">Mine Projekter</h1>
 				<p className="pl-desc">
 					Herunder kan man se en række af de projekter, jeg har arbejdet på for
-					nylig. <br/>Klik på vinduet for at gå til hjemmesiden.
+					nylig. <br />
+					Klik på vinduet for at gå til hjemmesiden.
 				</p>
 			</div>
 			<div className="pl-list">
-					{products.map((item) => (
-						<Product key={item.id} img={item.img} link={item.link} desc={item.desc} title={ item.title}/>
-                    ))}
+				{products.map((item) => (
+					<Product
+						key={item.id}
+						img={item.img}
+						link={item.link}
+						desc={item.desc}
+						title={item.title}
+					/>
+				))}
 			</div>
 		</div>
 	);

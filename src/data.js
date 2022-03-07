@@ -1,4 +1,4 @@
-import vvolt from "./images/vvolt1.png";
+import vvolt from "./images/vvolt.png";
 import expenses from "./images/ExpenseTracker2.png";
 import addUser from "./images/AddUser.png";
 import login from "./images/LoginApp.png";

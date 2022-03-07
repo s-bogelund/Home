@@ -8,10 +8,10 @@ const ProductList = () => {
 	return (
 		<div className="pl">
 			<div className="pl-texts">
-				<h1 className="pl-title">Mine projekter</h1>
+				<h1 className="pl-title">Mine Projekter</h1>
 				<p className="pl-desc">
-					Herunder kan man se en række af de projekter jeg har arbejdet på for
-					nylig. <br/>Klik på projektet for at se mere.
+					Herunder kan man se en række af de projekter, jeg har arbejdet på for
+					nylig. <br/>Klik på vinduet for at gå til hjemmesiden.
 				</p>
 			</div>
 			<div className="pl-list">

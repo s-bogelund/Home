@@ -6,19 +6,19 @@ const Header = () => {
 		<div className="i">
 			<div className="i-left">
 				<div className="i-left-wrapper">
-				<h2 className="i-intro">Hej, mit navn er</h2>
+				<h2 className="i-intro">Mit navn er</h2>
 					<h1 className="i-name">Simon Bøgelund</h1>
 					<div className="i-title">
 						<div className="i-title-wrapper">
 							<div className="i-title-item">Softwareteknologistuderende</div>
 							<div className="i-title-item">Spirende Web Udvikler</div>
-							<div className="i-title-item">C# Entusiast</div>
+							<div className="i-title-item">Grundig og Stabil</div>
+							<div className="i-title-item">Social og Samarbejdsorienteret</div>
 							<div className="i-title-item">Klar på at prøve noget nyt!</div>
-							<div className="i-title-item">Generelt en god fyr</div>
 						</div>
 					</div>
 					<p className="i-desc">
-						Jeg er en engageret fyr som er super frisk på at prøve kræfter med
+						Jeg er en engageret ung mand som er super frisk på at prøve kræfter med
 						alle aspekter af softwareudvikling. Jeg elsker at lære nye metoder
 						og værktøjer, og det kan man se eksempler på her.
 					</p>

@@ -24,7 +24,7 @@
 }
 
 .i-intro {
-	font-size: 1.3rem;
+	font-size: 2rem;
 	font-weight: normal;
 }
 
@@ -65,7 +65,9 @@
 	display: flex;
 	align-items: center;
   }
-  
+.i-desc{
+	font-size: 1.4rem;
+}
 
 /* .i-img {
 	max-width: 30%;

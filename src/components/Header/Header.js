@@ -11,10 +11,10 @@ const Header = () => {
 					<div className="i-title">
 						<div className="i-title-wrapper">
 							<div className="i-title-item">Softwareteknologistuderende</div>
-							<div className="i-title-item">Web Udvikling</div>
+							<div className="i-title-item">Spirende Web Udvikler</div>
 							<div className="i-title-item">C# Entusiast</div>
 							<div className="i-title-item">Klar på at prøve noget nyt!</div>
-							<div className="i-title-item">Helt igennem god fyr</div>
+							<div className="i-title-item">Generelt en god fyr</div>
 						</div>
 					</div>
 					<p className="i-desc">

@@ -13,6 +13,7 @@ html {
 		var(--quaternary-color)
 	);
 	color: var(--tertiary-color);
+	padding-bottom: 20vh;
 }
 
 body {

@@ -28,7 +28,7 @@ const About = () => {
 					derfor har jeg brugt en god del af min fritid på at lære nye
 					værktøjer, og det har været virkelig motiverende.<br/> Jeg er især blevet glad for C# som jeg startede med at bruge i sommeren 2021, og som jeg bl.a. brugte til selvstændigt at stå for en GUI i WPF til 3. semesters projekt.
 					<br />
-					De sidste 3-4 måneder har jeg fokuseret mest på at lære JavaScript, og det er også et sprog, jeg er blevet glad for at arbejde med. Da jeg følte, at jeg havde en okay forståelse for sproget, begyndte jeg med React.
+					I 2022 har jeg fokuseret mest på at lære JavaScript, og det er også et sprog, jeg er blevet glad for at arbejde med. Da jeg følte, at jeg havde en okay forståelse for sproget, begyndte jeg at arbejde med React.
 				</p>
 				<p className="a-desc2">
                     Længere nede på min side er der eksempler på de projekter, jeg har lavet for nylig samt semesterprojektet.

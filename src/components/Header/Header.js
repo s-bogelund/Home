@@ -20,7 +20,7 @@ const Header = () => {
 					<p className="i-desc">
 						Jeg er en engageret fyr som er super frisk på at prøve kræfter med
 						alle aspekter af softwareudvikling. Jeg elsker at lære nye metoder
-						og værktøjer, og eksempler på dette kan ses på denne side.
+						og værktøjer, og det kan man se eksempler på her.
 					</p>
 				</div>
 			</div>

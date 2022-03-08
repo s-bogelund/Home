@@ -6,7 +6,7 @@ import ProductList from "./components/ProductList/ProductList";
 
 function App() {
 	useEffect(() => {
-		ReactGA.initialize("TRACKING ID");
+		ReactGA.initialize("G-K9RPQNRLZ1");
 		ReactGA.pageview(window.location.pathname + window.location.search);
 	}, []);
 

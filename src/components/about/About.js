@@ -20,16 +20,14 @@ const About = () => {
 					Universitet og er i gang med 4. semester.
 				</p>
 				<p className="a-desc1">
-					Jeg er rigtig glad for studiet og især studiemiljøet. Uddannelsen har et meget hardware-nært fokus, men det er ikke der, hvor min primære interesse ligger.
-					<br />
-					Jeg er derimod rigtig glad for højere niveau softwareudvikling, og derfor har jeg brugt en god del af min fritid på at lære nye værktøjer, og det har været virkelig motiverende.
+					Jeg er rigtig glad for studiet og især studiemiljøet. Uddannelsen har et meget hardware-nært fokus, men jeg er personligt rigtig glad for højere niveau softwareudvikling. <br/>Det er derfor har jeg brugt en god del af min fritid på at lære nye værktøjer, og det har været virkelig motiverende.
 					
 					<br/> Jeg er især blevet glad for C# som jeg begyndte at arbejde med i sommeren 2021. Jeg brugte det bl.a. til selvstændigt at udvikle en GUI i WPF ifm. 3. semesters projekt.
 					<br />
-					I 2022 har jeg primært fokuseret på at lære JavaScript, hvilket også er et sprog, jeg er blevet glad for at arbejde med. Da jeg havde et solidt fundament for sproget, begyndte jeg at arbejde med React.<br /><br />
-					Nedenfor er der eksempler på de projekter, jeg har lavet for nylig samt semesterprojektet.
+					I 2022 har jeg primært fokuseret på at lære JavaScript, hvilket også er et sprog, jeg er blevet glad for at arbejde med. Da jeg havde et solidt fundament inden for sproget, begyndte jeg at arbejde med React.<br /><br />
+					Nedenfor er der eksempler på de web-applikationer, jeg har lavet for nylig samt semesterprojektet.
                     <br />
-                    Disse projekter har været sjove og lærerige, og jeg glæder mig rigtig meget til at komme ud og anvende mine kompetencer på større projekter.
+                    Disse hjemmesider har været sjove og lærerige at arbejde med, og jeg glæder mig rigtig meget til at komme ud og anvende mine kompetencer og bidrage til større projekter.
 				</p>
 			</div>
 		</div>

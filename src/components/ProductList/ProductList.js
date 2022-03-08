@@ -10,9 +10,9 @@ const ProductList = () => {
 			<div className="pl-texts">
 				<h1 className="pl-title">Mine Projekter</h1>
 				<p className="pl-desc">
-					Herunder kan man se en række af de projekter, jeg har arbejdet på for
+					Herunder kan der ses en række af de projekter, jeg har arbejdet på for
 					nylig. <br />
-					Klik på vinduet for at gå til hjemmesiden.
+					Klik på vinduet for at besøge hjemmesiden.
 				</p>
 			</div>
 			<div className="pl-list">

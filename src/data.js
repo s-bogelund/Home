@@ -15,13 +15,9 @@ export const products = [
 				Dette projekt er en hjemmeside som først var inspireret af Wolt, men
 				undervejs ændrede den form til en mere generisk madudleveringsapp.
 				<br />
-				<br />
-				I dette projekt arbejdede jeg med flere forskellige React hooks såsom
-				useState, useEffect, useContext og useReducer. Det var også første gang,
-				jeg arbejdede med modalvinduer.
-				<br />
-				<br />I dette projekt forsøgte jeg mig også for første gang med basal
-				animation i CSS.
+				<br />I dette projekt arbejdede jeg med flere forskellige React hooks
+				såsom useState, useEffect, useContext og useReducer. Det var også første
+				gang, jeg arbejdede med modalvinduer og basal CSS animation.
 			</p>
 		),
 	},
@@ -33,40 +29,26 @@ export const products = [
 		desc: (
 			<p>
 				GUI til 3. semester projekt. Den er lavet i WPF, og det var mit
-				forsøgsdyr undervejs på 3. semester, efterhånden som jeg blev mere
-				fortrolig med WPF, men også C# og GUI programmering helt generelt.
+				forsøgsdyr undervejs på 3. semester. Den var med til at gøre mig mere
+				fortrolig med WPF specifikt, men også C# og GUI programmering helt
+				generelt.
 				<br />
 				<br />
-				Slutresultat er lidt en blandet landhandel, men det var en rigtig god
-				øvelse, selvom jeg ikke nåede at få helt styr på, hvordan man korrekt
-				struktuerede en WPF applikation. Der er bl.a. implementeret WebSocket
-				kommunikation med en Raspberry Pi for at styre et "Smart" Beer Pong
-				bord.
+				Da vi ikke fik undervisning i hverken C# eller WPF, måtte jeg selv
+				opsøge al viden om, hvordan de forskellige ting skulle laves, og det er
+				produkt, jeg lærte rigtig meget af. <br />
+				Rent teknisk gav det mig meget, men jeg lærte også meget om, hvordan jeg
+				skulle opsøge ny viden, og hvordan jeg kunne bruge det, jeg lærte i
+				praksis.
 				<br />
 				<br />
-				Klik på billedet for at se kort demo som vi brugte til eksamen.
+				Klik evt. på billedet for at se kort demo, som vi brugte til eksamen.
 			</p>
 		),
 	},
+
 	{
 		id: 3,
-		title: <h1>Udgift Tracker</h1>,
-		img: expenses,
-		link: "https://www.expense-tracker.simonbogelund.dk",
-		desc: (
-			<p>
-				Mit første rigtige projekt i React. Her er der ikke brugt nogle hooks,
-				og det primære fokus i dette projekt var at få helt styr på, hvordan
-				React komponenterne kommunikerer med hinanden
-				<br />
-				<br />
-				Det meste af stylingen er lånt andetstedsfra, så der var stort set kun
-				fokus på de mest grundlæggende React funktioner.
-			</p>
-		),
-	},
-	{
-		id: 4,
 		title: <h1>Login App</h1>,
 		img: login,
 		link: "https://s-bogelund.github.io/login-app/",
@@ -83,6 +65,23 @@ export const products = [
 				Da stylingen generelt var ret simpel, så besluttede jeg mig for også at
 				forsøge at lave genbrugelige komponenter som jeg bl.a. har genbrugt til
 				denne side.
+			</p>
+		),
+	},
+	{
+		id: 4,
+		title: <h1>Udgift Tracker</h1>,
+		img: expenses,
+		link: "https://www.expense-tracker.simonbogelund.dk",
+		desc: (
+			<p>
+				Mit første rigtige projekt i React. Her er der ikke brugt nogle hooks,
+				og det primære fokus i dette projekt var at få helt styr på, hvordan
+				React komponenterne kommunikerer med hinanden
+				<br />
+				<br />
+				Det meste af stylingen er lånt andetstedsfra, så der var stort set kun
+				fokus på de mest grundlæggende React funktioner.
 			</p>
 		),
 	},
